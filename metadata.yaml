@@ -1,0 +1,27 @@
+_repo: Flower-GuideWild-Flowers-East-of-the-Rockies--Revised-and-with-New-Illustrations-_45676
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45676-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Reed, Chester A. (Chester Albert)
+    alias: Reed, Chester Albert
+    birthdate: 1876
+    deathdate: 1912
+    gutenberg_agent_id: '34298'
+    url: http://www.gutenberg.org/2009/agents/34298
+description: ''
+gutenberg_issued: '2014-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45676'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QK'
+- !lcsh 'Flowers -- United States'
+title: "Flower Guide: Wild Flowers East of the Rockies\r\n(Revised and with New Illustrations)"
+url: http://www.gutenberg.org/ebooks/45676
